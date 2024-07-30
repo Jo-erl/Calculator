@@ -1,6 +1,6 @@
 ## Calculator
 A simple calculator.<br><br>
 
-<a href="https://jo-erl.github.io/Calculator/">Demo Link</a><br><br>
+<a href="https://jo-erl.github.io/Calculator/">Demo Link</a><br>
 ### SCREENSHOT
-![17](https://github.com/Jo-erl/3dcarousel/assets/133300552/b0772bf3-5c2d-4056-88e4-ab3af23e84a4)
+![Calculator](https://github.com/user-attachments/assets/f72cd944-0d8e-47e5-8588-f8616ccafcc0)
