@@ -82,10 +82,10 @@ form .display input {
   text-align: right;
   flex: 1;
   font-size: 45px;
-  border-radius: 10px; /* Adding border radius for consistency */
+  border-radius: 10px;
   box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.5),
-    8px 8px 15px rgba(0, 0, 0, 0.1); /* Apply similar shadow effect */
-  background: #ebebeb; /* Matches body background */
+    8px 8px 15px rgba(0, 0, 0, 0.1);
+  background: #ebebeb;
   border: none;
   color: #333;
 }
